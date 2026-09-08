@@ -1,8 +1,8 @@
 {
-  "version": "1.0.2",
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v1.0.2/SingeLand-1.0.2.zip",
-  "sha256": "3311052a7719ee2a9bbb836b967202da301689b31023bba630d0214b56c6eacc",
-  "size": 267525454,
+  "version": "1.0.3",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v1.0.3/SingeLand-1.0.3.zip",
+  "sha256": "ad64255b86c166ed5fc849d5e64e49b0445dbda8fd4702a5272fcac611a4da36",
+  "size": 267531144,
   "gameExe": "SingeLand.exe",
-  "notes": "Nouvelles têtes pour les bots."
+  "notes": "Photos mélangées et limitation des doublons dans les vagues."
 }
