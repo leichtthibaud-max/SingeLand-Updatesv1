@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0",
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2/SingeLand-2.0.0.zip",
-  "sha256": "5d30d88f08fe72350dfe7f2194291ae5e20ac2c4482d42b3ee23619e1634f4b7",
-  "size": 269717923,
+  "version": "2.0.1",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.0.1/SingeLand-2.0.1.zip",
+  "sha256": "d94eaf25d837ca64619b71e2ca18fe1af610630694cf88db469d43fd5d9e62d4",
+  "size": 271227455,
   "gameExe": "SingeLand.exe",
-  "notes": "Carte agrandie de 78 %, ville cinq fois plus grande, nature et éclairage enrichis, trois armes à ramasser, soins et boss toutes les trois vagues : Kalazilla ouvre le combat avec ses lasers oculaires."
+  "notes": "Optimisation sans baisse des graphismes. Butin aléatoire effacé après 10 secondes et entre les vagues, noms au ramassage, photos mieux mélangées et nouvelle musique de boss."
 }
