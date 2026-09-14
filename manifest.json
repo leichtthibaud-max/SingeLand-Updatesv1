@@ -1,8 +1,8 @@
 {
-  "version": "2.0.2",
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.0.2/SingeLand-2.0.2.zip",
-  "sha256": "0c5ebf6eccd70a3ca218570d380dbf66eb1eccd57529df14b9e0147d6fe3a5da",
-  "size": 271230284,
+  "version": "2.0.6",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.0.6/SingeLand-2.0.6.zip",
+  "sha256": "2c8511cca7e7dd26f7353e7c5c3463bc7d69f00e336ad31c152e203f57e0032e",
+  "size": 271231232,
   "gameExe": "SingeLand.exe",
-  "notes": "Vos photos sur les singes : importation, recadrage, jusqu’à 32 portraits sauvegardés sur votre appareil et retour aux photos d’origine depuis le menu. Optimisations Android, musique des boss et butin temporaire conservés."
+  "notes": "Boss un peu plus coriaces, surtout Kalazilla, et eau bleu azur. Les autres réglages de cette version restent conservés."
 }
