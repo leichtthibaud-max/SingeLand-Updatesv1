@@ -1,8 +1,8 @@
 {
-  "version": "2.1.1",
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.1.1-test/SingeLand-2.1.1-Windows-launcher.zip",
-  "sha256": "60d608a9c0db5d6b61a0d96425fa1cf5d3ea3ec4ca225d748ddad00c0df8657c",
-  "size": 271316234,
+  "version": "2.1.2",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.1.2-test/SingeLand-2.1.2-Windows-launcher.zip",
+  "sha256": "5d83111ef27c54e367f04e19b43e75161883e6dc2933bb64370849f5fbbae69e",
+  "size": 282080443,
   "gameExe": "SingeLand.exe",
-  "notes": "Trois difficultés : Facile, Normal et Difficile. Les singes sont armés en Normal et Difficile ; aucun avertissement de tir en Difficile. Arsenal de six armes, deux emplacements et nouveau HUD."
+  "notes": "Plein écran ordinateur, avertissements de tirs supprimés et inventaire accessible avec I ou Tab. Intégration du sac corrigée sans modifier les versions des stores."
 }
