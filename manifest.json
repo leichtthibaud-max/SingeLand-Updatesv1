@@ -1,8 +1,8 @@
 {
-  "version": "2.1.3",
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.1.3-test/SingeLand-2.1.3-Windows-launcher.zip",
-  "sha256": "12312f0cd837e54b84ccc991374d7fc515c5d89bf8609bc2db596edb545f02c9",
-  "size": 282077996,
+  "version": "2.1.5",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.1.5-test/SingeLand-2.1.5-Windows-launcher.zip",
+  "sha256": "87307b4ba14f89a9400992260617db4ba6f27443e2ef74f586ba27fd67ebf257",
+  "size": 282074824,
   "gameExe": "SingeLand.exe",
-  "notes": "Scripts d'inventaire francisés sans casser leurs références Unity. Plein écran, inventaire I ou Tab et tirs sans avertissement inclus."
+  "notes": "Singes articulés, marche et course améliorées, détails supplémentaires sur PC. Visée, soins et armures dans le sac."
 }
