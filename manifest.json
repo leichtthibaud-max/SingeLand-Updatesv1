@@ -1,8 +1,8 @@
 {
-  "version": "2.1.5",
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.1.5-test/SingeLand-2.1.5-Windows-launcher.zip",
-  "sha256": "87307b4ba14f89a9400992260617db4ba6f27443e2ef74f586ba27fd67ebf257",
-  "size": 282074824,
+  "version": "2.1.6",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.1.6-test/SingeLand-2.1.6-Windows-launcher.zip",
+  "sha256": "8f9c29f6bab378370166388623552d3c51058ad680af690687d4537455da78b8",
+  "size": 282087151,
   "gameExe": "SingeLand.exe",
-  "notes": "Singes articulés, marche et course améliorées, détails supplémentaires sur PC. Visée, soins et armures dans le sac."
+  "notes": "Visée ADS, mixeur audio et paramètres, pas améliorés, animations des singes corrigées et nouveau menu jungle animé."
 }
