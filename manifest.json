@@ -1,8 +1,8 @@
 {
-  "version": "2.1.6",
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.1.6-test/SingeLand-2.1.6-Windows-launcher.zip",
-  "sha256": "8f9c29f6bab378370166388623552d3c51058ad680af690687d4537455da78b8",
-  "size": 282087151,
+  "version": "2.1.7",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.1.7/SingeLand-2.1.7-Windows-launcher.zip",
+  "sha256": "25c9e10a3dce770143ffd5d38ec7c887f5bbe54b2800dacecbf2883b06b62f41",
+  "size": 250788166,
   "gameExe": "SingeLand.exe",
-  "notes": "Visée ADS, mixeur audio et paramètres, pas améliorés, animations des singes corrigées et nouveau menu jungle animé."
+  "notes": "Vagues variées, quatre biomes et voyages, deux pouvoirs par boss. Neuf armes, deux emplacements, inventaire, visée et menu animé."
 }
