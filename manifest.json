@@ -1,8 +1,8 @@
 {
-  "version": "2.0.6",
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.0.6/SingeLand-2.0.6.zip",
-  "sha256": "2c8511cca7e7dd26f7353e7c5c3463bc7d69f00e336ad31c152e203f57e0032e",
-  "size": 271231232,
+  "version": "2.1.1",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.1.1-test/SingeLand-2.1.1-Windows-launcher.zip",
+  "sha256": "60d608a9c0db5d6b61a0d96425fa1cf5d3ea3ec4ca225d748ddad00c0df8657c",
+  "size": 271316234,
   "gameExe": "SingeLand.exe",
-  "notes": "Boss un peu plus coriaces, surtout Kalazilla, et eau bleu azur. Les autres réglages de cette version restent conservés."
+  "notes": "Trois difficultés : Facile, Normal et Difficile. Les singes sont armés en Normal et Difficile ; aucun avertissement de tir en Difficile. Arsenal de six armes, deux emplacements et nouveau HUD."
 }
