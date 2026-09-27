@@ -1,8 +1,8 @@
 {
-  "version": "2.2.0",
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.2.0/SingeLand-2.2.0-Windows-launcher.zip",
-  "sha256": "9fcc00bca3ab5045b9401cf6f51ab980ec88cf4420449464d53b1aa84bf43e8f",
-  "size": 279785600,
+  "version": "2.3.0",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.3.0/SingeLand-2.3.0-Windows-launcher.zip",
+  "sha256": "f6846cdb2855ae3212d0b962a2d18ca03064cb862b9ba2156a5c7c7b8658dfcc",
+  "size": 279785126,
   "gameExe": "SingeLand.exe",
-  "notes": "Salons SingeCool en ligne : créez une partie privée et invitez vos amis avec un lien."
+  "notes": "Salons SingeCool compatibles Windows et Android : invitez jusqu'à trois amis avec un lien."
 }
