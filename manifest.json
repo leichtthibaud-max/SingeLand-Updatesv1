@@ -1,8 +1,8 @@
 {
-  "version": "2.3.0",
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.3.0/SingeLand-2.3.0-Windows-launcher.zip",
+  "version": "2.3.1",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.3.1/SingeLand-2.3.1-Windows-launcher.zip",
   "sha256": "f6846cdb2855ae3212d0b962a2d18ca03064cb862b9ba2156a5c7c7b8658dfcc",
   "size": 279785126,
   "gameExe": "SingeLand.exe",
-  "notes": "Salons SingeCool compatibles Windows et Android : invitez jusqu'à trois amis avec un lien."
+  "notes": "Menu principal am\u00e9lior\u00e9 : meilleur design, animations fluides, meilleure lisibilit\u00e9. Salons SingeCool compatibles Windows et Android : invitez jusqu'\u00e0 trois amis avec un lien."
 }
