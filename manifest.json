@@ -1,8 +1,8 @@
 {
-  "version": "2.1.7",
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.1.7/SingeLand-2.1.7-Windows-launcher.zip",
-  "sha256": "25c9e10a3dce770143ffd5d38ec7c887f5bbe54b2800dacecbf2883b06b62f41",
-  "size": 250788166,
+  "version": "2.1.8",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.1.8/SingeLand-2.1.8-Windows-launcher.zip",
+  "sha256": "70a3bbb6ea9e6c943ff1b0036fbdbed560e283a0bd8d0d496ee63ad6cc177335",
+  "size": 279764966,
   "gameExe": "SingeLand.exe",
-  "notes": "Vagues variées, quatre biomes et voyages, deux pouvoirs par boss. Neuf armes, deux emplacements, inventaire, visée et menu animé."
+  "notes": "Combats améliorés : comportements des ennemis et des boss, vitesse stabilisée."
 }
