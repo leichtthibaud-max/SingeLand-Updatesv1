@@ -1,8 +1,8 @@
 {
-  "version": "2.1.9",
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.1.9/SingeLand-2.1.9-Windows-launcher.zip",
-  "sha256": "06c51d3c037aa260510ade73705031659dc0b2c0fc413cdac31213cc45a7c3b5",
-  "size": 279780724,
+  "version": "2.2.0",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.2.0/SingeLand-2.2.0-Windows-launcher.zip",
+  "sha256": "9fcc00bca3ab5045b9401cf6f51ab980ec88cf4420449464d53b1aa84bf43e8f",
+  "size": 279785600,
   "gameExe": "SingeLand.exe",
-  "notes": "Ville enrichie avec de nouveaux bâtiments et décors ; visée des ennemis armés améliorée."
+  "notes": "Salons SingeCool en ligne : créez une partie privée et invitez vos amis avec un lien."
 }
