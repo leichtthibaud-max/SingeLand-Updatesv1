@@ -1,8 +1,8 @@
 {
-  "version": "2.5.0",
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.5.0/SingeLand-2.5.0-Windows-launcher.zip",
-  "sha256": "e90e5e1b18a2a245055a40e1b06392f4c8e32af10103123eba77678b3200f54b",
-  "size": 282042784,
+  "version": "2.6.0",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.6.0/SingeLand-2.6.0-Windows-launcher.zip",
+  "sha256": "86e342a916106323bdfb4192c2cc59ee7c78fa1625a6503b1b9a2114b1f6eda5",
+  "size": 283924443,
   "gameExe": "SingeLand.exe",
-  "notes": "Ville agrandie et routes degagees, nouvelles facades et terrasses, voitures, bateau et avion pilotables. Salons Windows et Android."
+  "notes": "Villes et biomes enrichis, 101 vehicules pilotables, animaux animes et salons multijoueurs dans SingeCool et les vagues de singes."
 }
