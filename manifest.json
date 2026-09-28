@@ -1,8 +1,8 @@
 {
-  "version": "2.3.0",
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.3.0/SingeLand-2.3.0-Windows-launcher.zip",
-  "sha256": "f6846cdb2855ae3212d0b962a2d18ca03064cb862b9ba2156a5c7c7b8658dfcc",
-  "size": 279785126,
+  "version": "2.5.0",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.5.0/SingeLand-2.5.0-Windows-launcher.zip",
+  "sha256": "e90e5e1b18a2a245055a40e1b06392f4c8e32af10103123eba77678b3200f54b",
+  "size": 282042784,
   "gameExe": "SingeLand.exe",
-  "notes": "Salons SingeCool compatibles Windows et Android : invitez jusqu'à trois amis avec un lien."
+  "notes": "Ville agrandie et routes degagees, nouvelles facades et terrasses, voitures, bateau et avion pilotables. Salons Windows et Android."
 }
