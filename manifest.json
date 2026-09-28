@@ -1,8 +1,8 @@
 {
-  "version": "2.6.0",
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.6.0/SingeLand-2.6.0-Windows-launcher.zip",
-  "sha256": "86e342a916106323bdfb4192c2cc59ee7c78fa1625a6503b1b9a2114b1f6eda5",
-  "size": 283924443,
+  "version": "2.6.1",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.6.1/SingeLand-2.6.1-Windows-launcher.zip",
+  "sha256": "b31ee702298256969340b39ca414f401f714024bbdcaa0d915a7e0c148d123e9",
+  "size": 284713577,
   "gameExe": "SingeLand.exe",
-  "notes": "Villes et biomes enrichis, 101 vehicules pilotables, animaux animes et salons multijoueurs dans SingeCool et les vagues de singes."
+  "notes": "Herbe et rivieres enrichies, circulation regionale, 173 vehicules pilotables et 120 habitants dans SingeCool et les vagues."
 }
