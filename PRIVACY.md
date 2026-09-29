@@ -6,7 +6,7 @@ SingeLand est un jeu publié par **Thibaud Leicht** sous le nom **LeichtGameCorp
 
 ## Données techniques utilisées
 
-À partir de la version 2.6.2, SingeLand crée au premier lancement un identifiant aléatoire d'installation (par exemple `SINGE-A82F19C4E21D`) et le conserve localement. À chaque démarrage, le jeu crée aussi un identifiant aléatoire de session. Il transmet au serveur SingeLand ces identifiants, la plateforme (Windows ou Android), la version du jeu, son numéro de build, les heures de début et de fin de session et une indication d'activité environ toutes les 90 secondes. Le serveur calcule la durée des sessions et considère une session inactive après environ cinq minutes sans activité. Une fermeture par inactivité ne prouve pas qu'il y a eu un plantage.
+À partir de la version 2.6.2, SingeLand crée au premier lancement un identifiant aléatoire d'installation (par exemple `SINGE-A82F19C4E21D`) et le conserve localement. À chaque démarrage, le jeu crée aussi un identifiant aléatoire de session. Il transmet au serveur SingeLand ces identifiants, la plateforme (Windows ou Android), la version du jeu, son numéro de build, les heures de début et de fin de session et une indication d'activité environ toutes les 90 secondes. À partir de la version 2.6.3, il transmet aussi le modèle commercial du téléphone Android ou le type de PC (fixe ou portable), sans numéro de série. Le serveur calcule la durée des sessions et considère une session inactive après environ cinq minutes sans activité. Une fermeture par inactivité ne prouve pas qu'il y a eu un plantage.
 
 Ces données servent à compter les installations et joueurs actifs, mesurer l'utilisation et la durée des sessions, diagnostiquer les versions encore utilisées et exploiter le service. L'identifiant d'installation est pseudonyme : il ne contient ni nom, ni e-mail, ni identifiant matériel. Une réinstallation complète peut créer un nouvel identifiant.
 
@@ -18,7 +18,7 @@ Nous ne demandons pas à la télémétrie votre nom, compte Windows ou Google, e
 
 ## Notifications et destinataires
 
-Le lancement d'une nouvelle session peut produire une notification dans un canal Discord réservé à l'administration de SingeLand. Elle contient la plateforme, la version, l'identifiant d'installation, l'heure de connexion et le nombre de joueurs actifs. Discord reçoit donc ces éléments comme prestataire du service de notification ; ses traitements peuvent avoir lieu hors de l'Union européenne. Le webhook Discord et les données d'administration ne sont pas intégrés au jeu distribué.
+Le lancement d'une nouvelle session peut produire une notification dans un canal Discord réservé à l'administration de SingeLand. Elle contient la plateforme, la version, le modèle ou type d'appareil lorsqu'il est disponible, l'identifiant d'installation, l'heure de connexion et le nombre de joueurs actifs. Discord reçoit donc ces éléments comme prestataire du service de notification ; ses traitements peuvent avoir lieu hors de l'Union européenne. Le webhook Discord et les données d'administration ne sont pas intégrés au jeu distribué.
 
 L'hébergement et les personnes chargées de l'administration technique de SingeLand ont accès aux données nécessaires à leurs fonctions. Nous ne vendons pas ces données et ne les utilisons pas pour de la publicité ciblée.
 
