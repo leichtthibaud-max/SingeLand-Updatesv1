@@ -1,8 +1,8 @@
 {
-  "version": "2.6.2",
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.6.2/SingeLand-2.6.2-Windows-launcher.zip",
-  "sha256": "f48e5c4bad78f954caebe2e4cd91dc96124c6f51583723526a0e4ee5cd4d19b9",
-  "size": 275146502,
+  "version": "2.7.0",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v2.7.0/SingeLand-2.7.0-Windows-launcher.zip",
+  "sha256": "ed6823b5fd8f3466e68142286651b2b2e81ac674bd0dc8602ca7429c1dcc354c",
+  "size": 284745010,
   "gameExe": "SingeLand.exe",
-  "notes": "Telemetrie pseudonyme des sessions, tableau de bord des joueurs actifs et notifications Discord."
+  "notes": "Monde enrichi, cinq villes, routes et ponts coherents, 173 vehicules, trafic multijoueur synchronise et interface mobile amelioree."
 }
