@@ -26,9 +26,11 @@ L'hébergement et les personnes chargées de l'administration technique de Singe
 
 L'identifiant local est renouvelé au plus tard après **395 jours**, sans prolongation lors des visites. Le détail des sessions terminées est conservé jusqu'à **180 jours**. Les résumés liés à une installation inactive sont supprimés après **395 jours** sans activité. Les statistiques agrégées sans identifiant peuvent être conservées plus longtemps. Les échanges utilisent HTTPS, l'accès au tableau de bord est protégé et le serveur limite les requêtes anormales.
 
-## Vos demandes
+## Suppression des données SingeLand
 
-Vous pouvez demander l'accès, la rectification ou la suppression des données liées à votre identifiant d'installation, ainsi que vous opposer à ce traitement, en écrivant à **leichtthibaud@gmail.com**. L'identifiant est affiché dans les paramètres du jeu à partir de la version 2.6.2. L'effacement des données du jeu ne supprime pas automatiquement les copies déjà transmises à Discord ; contactez-nous pour une demande portant aussi sur ces notifications.
+Pour demander la suppression des données de télémétrie de votre installation, écrivez à **leichtthibaud@gmail.com** avec pour objet « Suppression des données SingeLand » et indiquez votre identifiant d'installation. Cet identifiant est affiché dans les paramètres du jeu à partir de la version 2.6.2. Nous supprimerons les sessions et le résumé d'installation associés. Les sessions sont autrement conservées jusqu'à 180 jours et les résumés d'installation inactive jusqu'à 395 jours. Les statistiques agrégées sans identifiant peuvent être conservées plus longtemps. L'effacement sur notre serveur ne supprime pas automatiquement les copies déjà transmises à Discord ; précisez si votre demande porte aussi sur ces notifications.
+
+Vous pouvez également demander l'accès ou la rectification des données liées à cet identifiant, ou vous opposer au traitement, à la même adresse.
 
 Vous pouvez également saisir la [CNIL](https://www.cnil.fr/) si vous estimez que vos droits ne sont pas respectés.
 
