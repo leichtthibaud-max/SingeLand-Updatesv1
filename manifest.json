@@ -1,8 +1,1 @@
-{
-  "version": "3.1.1",
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v3.1.1/SingeLand-3.1.1-Windows-launcher.zip",
-  "sha256": "605539b103710be2332c97cac02c8d2c925cd0bd0df42b5aa8524290f5744e8c",
-  "size": 639350552,
-  "gameExe": "SingeLand.exe",
-  "notes": "Campagne en développement, nouvelles rencontres, véhicules et compagnons améliorés, commandes mobiles de conduite et multijoueur actualisé."
-}
+{"version":"3.1.2","downloadUrl":"https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v3.1.2/SingeLand.zip","sha256":"28e651f3f3892bbe1ab1d5487802984bd0f2e5970f993d902cf51a0423992b83","size":906330773,"gameExe":"SingeLand.exe","notes":"Campagne 3.1.2, carte et personnages communs, actualités en direct, photos et launcher 2.2.2."}
