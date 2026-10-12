@@ -1,39 +1,23 @@
 # Politique de confidentialité de SingeLand
 
-Dernière mise à jour : 29 septembre 2026
+CONFIDENTIALITÉ · version du 10 octobre 2026
+Éditeur et responsable : Leicht Thibaud
+Contact : leichtthibaud@gmail.com
 
-SingeLand est un jeu publié par **Thibaud Leicht** sous le nom **LeichtGameCorporation**. Cette politique concerne les versions Windows et Android du jeu. Pour toute question ou demande concernant les données du jeu, écrivez à **leichtthibaud@gmail.com**.
+RETOURS VOLONTAIRES
+Envoyer un retour transmet ton pseudonyme, objet, message, version, type d’appareil et durée jouée dans cette session au serveur du développeur puis au Discord privé d’administration. Finalité : répondre aux problèmes et améliorer le jeu. Base légale : ton consentement lors de l’envoi. Aucun fichier, photo ou journal n’est joint automatiquement. N’envoie aucune donnée sensible ou mot de passe.
 
-## Données techniques utilisées
+SUIVI FACULTATIF
+Désactivé par défaut et réservé aux joueurs déclarant avoir au moins 15 ans. Son activation autorise le suivi des lancements et connexions multijoueur : pseudonyme, version, type d’appareil, identifiant aléatoire, horaires et durées de connexion. Finalité : comprendre l’utilisation et diagnostiquer les problèmes. Base légale : consentement. Tu peux retirer ce choix ici sans perdre l’accès au jeu. Aucune identité du propriétaire, localisation précise ou adresse MAC n’est envoyée.
 
-À partir de la version 2.6.2, SingeLand crée au premier lancement un identifiant aléatoire d'installation (par exemple `SINGE-A82F19C4E21D`) et le conserve localement. À chaque démarrage, le jeu crée aussi un identifiant aléatoire de session. Il transmet au serveur SingeLand ces identifiants, la plateforme (Windows ou Android), la version du jeu, son numéro de build, les heures de début et de fin de session et une indication d'activité environ toutes les 90 secondes. À partir de la version 2.6.3, il transmet aussi le modèle commercial du téléphone Android ou le type de PC (fixe ou portable), sans numéro de série. Le serveur calcule la durée des sessions et considère une session inactive après environ cinq minutes sans activité. Une fermeture par inactivité ne prouve pas qu'il y a eu un plantage.
+MULTIJOUEUR
+Les identifiants de session et données techniques nécessaires à la connexion sont traités pour fournir ce mode. L’adresse réseau sert aussi à limiter les abus. Les signalements de joueurs servent à la sécurité et à la modération, sur la base de l’intérêt légitime de protéger la communauté.
 
-Ces données servent à compter les installations et joueurs actifs, mesurer l'utilisation et la durée des sessions, diagnostiquer les versions encore utilisées et exploiter le service. L'identifiant d'installation est pseudonyme : il ne contient ni nom, ni e-mail, ni identifiant matériel. Une réinstallation complète peut créer un nouvel identifiant.
+DESTINATAIRES ET CONSERVATION
+Le développeur reçoit les informations ; les notifications autorisées et retours passent par Discord dans des salons privés. Les nouveaux messages Discord et données de session/retour sont conservés au maximum 90 jours, avec suppression automatique prévue par le service. Discord peut traiter les données hors de l’Union européenne selon sa politique de confidentialité.
 
-Le traitement repose sur l'intérêt légitime de l'éditeur à exploiter et améliorer le jeu avec des statistiques techniques limitées. Vous pouvez vous y opposer en nous contactant.
+TES DROITS
+Tu peux demander accès, correction, suppression, limitation, portabilité quand applicable, ou t’opposer aux traitements fondés sur l’intérêt légitime : écris au contact ci-dessus avec la référence du retour ou ton pseudonyme. Tu peux retirer le consentement au suivi ici. Tu peux déposer une réclamation auprès de la CNIL (cnil.fr).
 
-Quand vous utilisez le multijoueur, le serveur traite temporairement les invitations privées, connexions et données nécessaires à la partie (par exemple les positions et actions). Il ne les intègre pas à l'historique de télémétrie.
-
-Nous ne demandons pas à la télémétrie votre nom, compte Windows ou Google, e-mail, adresse MAC, IMEI, identifiant publicitaire, localisation, contacts ou fichiers personnels. L'adresse IP peut être traitée temporairement par le réseau et les journaux techniques du serveur pour acheminer et protéger les requêtes ; elle n'est pas utilisée comme identifiant de joueur dans la base de télémétrie.
-
-## Notifications et destinataires
-
-Le lancement d'une nouvelle session peut produire une notification dans un canal Discord réservé à l'administration de SingeLand. Elle contient la plateforme, la version, le modèle ou type d'appareil lorsqu'il est disponible, l'identifiant d'installation, l'heure de connexion et le nombre de joueurs actifs. Discord reçoit donc ces éléments comme prestataire du service de notification ; ses traitements peuvent avoir lieu hors de l'Union européenne. Le webhook Discord et les données d'administration ne sont pas intégrés au jeu distribué.
-
-L'hébergement et les personnes chargées de l'administration technique de SingeLand ont accès aux données nécessaires à leurs fonctions. Nous ne vendons pas ces données et ne les utilisons pas pour de la publicité ciblée.
-
-## Conservation et protection
-
-L'identifiant local est renouvelé au plus tard après **395 jours**, sans prolongation lors des visites. Le détail des sessions terminées est conservé jusqu'à **180 jours**. Les résumés liés à une installation inactive sont supprimés après **395 jours** sans activité. Les statistiques agrégées sans identifiant peuvent être conservées plus longtemps. Les échanges utilisent HTTPS, l'accès au tableau de bord est protégé et le serveur limite les requêtes anormales.
-
-## Suppression des données SingeLand
-
-Pour demander la suppression des données de télémétrie de votre installation, écrivez à **leichtthibaud@gmail.com** avec pour objet « Suppression des données SingeLand » et indiquez votre identifiant d'installation. Cet identifiant est affiché dans les paramètres du jeu à partir de la version 2.6.2. Nous supprimerons les sessions et le résumé d'installation associés. Les sessions sont autrement conservées jusqu'à 180 jours et les résumés d'installation inactive jusqu'à 395 jours. Les statistiques agrégées sans identifiant peuvent être conservées plus longtemps. L'effacement sur notre serveur ne supprime pas automatiquement les copies déjà transmises à Discord ; précisez si votre demande porte aussi sur ces notifications.
-
-Vous pouvez également demander l'accès ou la rectification des données liées à cet identifiant, ou vous opposer au traitement, à la même adresse.
-
-Vous pouvez également saisir la [CNIL](https://www.cnil.fr/) si vous estimez que vos droits ne sont pas respectés.
-
-## Évolution
-
-Nous mettrons cette politique à jour si les données ou leur utilisation changent. La date de mise à jour figure en haut de cette page.
+RÈGLES DE JEU
+Respecte les autres joueurs : aucun harcèlement, contenu illégal ou triche. Les photos des singes adverses restent locales et aucune photo n'est jointe aux retours. Si tu coches le partage de la photo de ton singe, une copie réduite est transmise aux joueurs de ton salon via le serveur, uniquement en mémoire pendant la session ; elle n'est pas envoyée sur Discord. Tu peux désactiver ce partage dans la personnalisation de ton singe. Ne choisis que des images que tu as le droit d’utiliser. Ces règles ne limitent pas tes droits légaux.
