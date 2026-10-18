@@ -1,0 +1,28 @@
+{
+  "version": "3.3.0",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/test-ux23-3.3.0-20261019/SingeLand-3.3.0-TEST-UX23-Windows.zip",
+  "sha256": "075a76b0c0d4f6db24c18142af805f331e8876b9007b2f8ca85def17f17ae456",
+  "size": 1266795955,
+  "gameExe": "SingeLand.exe",
+  "notes": "# SINGELAND 3.3.0 — TEST CHAPITRE 4 / UX23\n\nPRE-RELEASE / BETA INTERNE — QA = PARTIAL\n\nCette distribution reprend exactement les fichiers runtime du candidat Windows UX23 atteste dans TASK-0005. Le jeu n'a pas ete reconstruit. Seul le dossier BurstDebugInformation_DoNotShip, reserve au diagnostic du compilateur Burst et inutile a l'execution, est omis.\n\n## Limites connues\n- BUG-0001 : crash natif a la fermeture toujours ouvert (OPEN).\n- Android physique non valide ; aucun APK n'est distribue dans cette preversion Windows.\n- Manette physique non validee.\n- Regression complete C1–C3 non terminee.\n- Les controles locaux UX ne constituent pas une QA independante du jeu.\n\n## Tester avec le launcher\n1. Telecharger et extraire SingeLand-Launcher-2.2.4-TEST-UX23-Windows.zip dans un nouveau dossier.\n2. Ouvrir « SingeLand Launcher TEST UX23.exe » puis choisir volontairement « TEST 3.3.0 · Chapitre 4 / UX23 » dans le menu CANAL.\n3. Lire les avertissements et confirmer l'installation du TEST. Aucun jeu n'est telecharge automatiquement en changeant de canal.\n\nLe canal public reste selectionne au demarrage. L'installation TEST et son current.json se trouvent dans un sous-dossier test-ux23, separe de l'installation publique. Le launcher historique n'est pas remplace.\n\n## Retour a la version publique\nChoisir « Version publique » ou le bouton « Revenir a la version publique ». La version publique deja installee et ses fichiers sont conserves. Le TEST reste disponible dans son dossier separe. La version publique actuelle est 3.2.5 ; son manifeste et ses archives GitHub sont inchanges.\n\nLes sauvegardes de campagne du jeu restent communes : avant chaque lancement TEST, le nouveau launcher copie les fichiers campagne-v1.json et leurs sauvegardes/archives connus dans son dossier sauvegardes-avant-test. Les originaux ne sont pas modifies par cette copie. La compatibilite d'une progression C4 avec le jeu public 3.2.5 n'est pas validee ; le retour des binaires ne restaure pas automatiquement une ancienne partie. Garder ces copies pour recuperation manuelle si necessaire.\n\nCette publication sert a l'essai utilisateur. Aucun essai gameplay complet, aucune installation personnelle, aucune publication Google Play ou Microsoft Store ne sont effectues par cette tache.",
+  "label": "SINGELAND 3.3.0 — TEST CHAPITRE 4 / UX23",
+  "channel": "test-ux23",
+  "prerelease": true,
+  "qaStatus": "PARTIAL",
+  "bug0001": "OPEN",
+  "physicalAndroidValidated": false,
+  "physicalControllerValidated": false,
+  "fullC1C3RegressionCompleted": false,
+  "sourceTask": "TASK-0005",
+  "distributionTask": "TASK-0008",
+  "candidateExeSha256": "6155fca7175e4d72c1f1e0068dfe4e5f610c1789f4d2766d7f4868c8dce467e0",
+  "candidateAssemblySha256": "189b3d3e02766156543b9f224a0e322f832a49f46aece67b67deebe4447c34fc",
+  "launcherVersion": "2.2.4",
+  "launcherUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/test-ux23-3.3.0-20261019/SingeLand-Launcher-2.2.4-TEST-UX23-Windows.zip",
+  "rollback": {
+    "sha256": "3ea94fd493d3bc562705ad40dcf8db6d61ef2ddbd597d18b16b8320250eee100",
+    "version": "3.2.5",
+    "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v3.2.5/SingeLand.zip",
+    "manifestUrl": "https://raw.githubusercontent.com/leichtthibaud-max/SingeLand-Updatesv1/main/manifest.json"
+  }
+}
