@@ -1,0 +1,12 @@
+{
+  "size": 1164406119,
+  "kind": "android",
+  "sha256": "1e1ae89faeec723cc758b6bdda0eb44ccc1b67ce72135608214d52878a443bbf",
+  "fileName": "SingeLand-Test-3.3.4.apk",
+  "version": "3.3.4",
+  "notes": "TEST Android complet. Contrôles techniques réussis ; QA globale et validation joueur non effectuées. Voix Claude : capture actuelle partielle, écoute artistique non validée. Installation volontaire uniquement.",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/launcher-test-2.2.5-20261024/SingeLand-Test-3.3.4.apk",
+  "versionCode": 3304,
+  "channel": "test",
+  "packageName": "com.singeland.bananaarena.test"
+}
