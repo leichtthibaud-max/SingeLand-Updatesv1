@@ -1,9 +1,14 @@
 {
-    "items":  [
-                  {
-                      "title":  "Actualités SingeLand",
-                      "message":  "Refonte de la nouvelle campagne et des personnage refonte également du multijoueur"
-                  }
-              ],
-    "updatedUtc":  "2026-10-11T07:10:23.8742361Z"
+  "items": [
+    {
+      "title": "Les voix des personnages",
+      "message": "Les voix IA seront bientôt remplacées par des voix d'acteurs. Merci pour votre patience.",
+      "prominent": true
+    },
+    {
+      "title": "Actualités SingeLand",
+      "message": "la campagne chapitre 5 disponible très prochainement"
+    }
+  ],
+  "updatedUtc": "2026-10-27T22:21:05Z"
 }
