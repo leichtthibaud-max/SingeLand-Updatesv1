@@ -1,0 +1,11 @@
+{
+  "kind": "launcher",
+  "version": "2.2.6",
+  "channel": "stable",
+  "publicBuild": true,
+  "fileName": "SingeLand-Launcher-2.2.6-Windows.zip",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v3.3.16/SingeLand-Launcher-2.2.6-Windows.zip",
+  "sha256": "bd8ef80657adf5fd872e84569c2c62225e880e0080e3c5b5bc32f0b7dc0159ff",
+  "size": 14801841,
+  "notes": "Launcher public : une seule version de production. Mise à jour volontaire via Mettre à jour le launcher.exe ; sauvegarde du programme précédent et jeux conservés."
+}
