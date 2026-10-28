@@ -1,10 +1,14 @@
 {
   "kind": "launcher",
-  "fileName": "SingeLand-Launcher-2.2.5-TEST-Windows.zip",
+  "version": "2.2.6",
   "channel": "test",
-  "size": 14899747,
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/launcher-test-2.2.5-20261024/SingeLand-Launcher-2.2.5-TEST-Windows.zip",
-  "sha256": "7f0baf6ed100a9933513a1e4e77e23ae6047c39d6e931d4f72a870f766a19603",
-  "version": "2.2.5",
-  "notes": "Extraire le ZIP, fermer ancien launcher et lancer volontairement Mettre à jour le launcher TEST.exe. Sauvegarde et remplacement du même exécutable Bureau. Première migration 2.2.2 manuelle."
+  "publicBuild": true,
+  "fileName": "SingeLand-Launcher-2.2.6-Windows.zip",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v3.3.16/SingeLand-Launcher-2.2.6-Windows.zip",
+  "sha256": "bd8ef80657adf5fd872e84569c2c62225e880e0080e3c5b5bc32f0b7dc0159ff",
+  "size": 14801841,
+  "notes": "Launcher public : une seule version de production. Mise à jour volontaire via Mettre à jour le launcher.exe ; sauvegarde du programme précédent et jeux conservés.",
+  "legacyBootstrapOnly": true,
+  "retiredGameChannel": true,
+  "productionFeed": "https://raw.githubusercontent.com/leichtthibaud-max/SingeLand-Updatesv1/main/manifest-launcher.json"
 }
