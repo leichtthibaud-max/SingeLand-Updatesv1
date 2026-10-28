@@ -8,7 +8,7 @@ SingeLand est un jeu indépendant d'aventure et d'action, fait par passion. Expl
 
 Incarnez Singe Chauve et faites équipe avec Minutieux, Cartographe et Rapide. Explorez la ville, les quais, les forêts et la savane, voyagez en véhicule, manipulez les installations Caliopy et participez aux combats de la campagne.
 
-Le contenu disponible dépend de la version et du canal choisis. La campagne continue de s'enrichir ; les versions de test peuvent contenir des imperfections.
+Les chapitres 1 à 4 se débloquent au fil de votre avancée dans l’histoire. Votre progression est sauvegardée. La campagne continue de s’enrichir au fil du développement.
 
 ## Voix et développement
 
@@ -18,8 +18,9 @@ Merci pour votre indulgence et votre bienveillance. Les retours constructifs, y 
 
 ## Versions et mises à jour
 
-Utilisez votre launcher habituel pour choisir la version proposée, ou consultez les [publications officielles](https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases). Lisez les notes de la version avant de sélectionner le canal de test.
+Utilisez votre launcher habituel pour recevoir la version de production, ou consultez les [publications officielles](https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases). La distribution se poursuit sur le canal de production.
 
 - [Présentation commune et textes réutilisables](SingeLand-Presentation.fr-FR.json)
 - [Actualités communes](SingeLand-Actualites.json)
 - [Confidentialité](PRIVACY.md)
+
