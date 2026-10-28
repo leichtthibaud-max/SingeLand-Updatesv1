@@ -29,11 +29,12 @@
   "publication": {
     "googlePlay": "PREPARED_NOT_PUBLISHED",
     "otherStores": "PREPARED_NOT_PUBLISHED",
-    "launcherNews": "PENDING_PUBLICATION"
+    "launcherNews": "PUBLISHED_SERVER_AND_GITHUB"
   },
   "assets": {
     "featureGraphic": "illustrations/feature-graphic-1024x500.png",
     "kind": "Promotional illustration, not gameplay capture",
-    "screenshots": "See images-manifest.json for original files and platforms"
+    "screenshots": "See images-manifest.json for original files and platforms",
+    "localOnly": true
   }
 }
