@@ -1,12 +1,12 @@
 {
-  "size": 1168090767,
+  "size": 1168662295,
   "kind": "android",
-  "sha256": "56def038d93bc261e47ab4aee3b0d9567840a9e9f13e4295f6e0a11b5f7bebb0",
-  "fileName": "SingeLand-Test-3.3.8.apk",
-  "version": "3.3.8",
-  "notes": "TEST Android/Fold 3.3.8 : mêmes correctifs campagne et voix que Windows 3.3.8. Voix actuelles unifiées, fragments, poursuite/équipage, interactions et commandes. Signature conservée pour mise à jour sans désinstallation. Contrôles techniques ciblés ; écoute artistique et essai matériel Fold par le joueur.",
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/test-android-3.3.8-20261027/SingeLand-Test-3.3.8.apk",
-  "versionCode": 3308,
+  "sha256": "39a735cd31930ba9a87c0a61746f96cac8db0ad2c7e6f757b9b1ef3a9e4ad06f",
+  "fileName": "SingeLand-Test-3.3.9.apk",
+  "version": "3.3.9",
+  "notes": "TEST Android/Fold 3.3.9 : mêmes correctifs campagne et voix que Windows 3.3.9. 202 nouvelles prises de Claude intégrées, fragments, poursuite/équipage, interactions et commandes. Signature conservée pour mise à jour sans désinstallation. Contrôles techniques ciblés ; écoute artistique et essai matériel Fold par le joueur.",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/test-android-3.3.9-20261028/SingeLand-Test-3.3.9.apk",
+  "versionCode": 3309,
   "channel": "test",
   "packageName": "com.singeland.bananaarena.test"
 }
