@@ -1,14 +1,18 @@
 {
   "items": [
     {
-      "title": "Les voix des personnages",
-      "message": "Les voix IA seront bientôt remplacées par des voix d'acteurs. Merci pour votre patience.",
+      "title": "SingeLand, un jeu indépendant fait par passion",
+      "message": "Explorez l'île, rencontrez ses habitants et découvrez les mystères du réseau Caliopy. Aventure, conduite et action vous attendent dans une campagne en développement."
+    },
+    {
+      "title": "Des voix provisoires, en attendant le doublage",
+      "message": "Les voix sont actuellement générées par intelligence artificielle. Elles sont provisoires, en attendant le doublage par des comédiens. Merci pour votre patience.",
       "prominent": true
     },
     {
-      "title": "Actualités SingeLand",
-      "message": "la campagne chapitre 5 disponible très prochainement"
+      "title": "Merci pour votre bienveillance",
+      "message": "SingeLand grandit au fil du développement. Merci pour votre indulgence face aux imperfections et pour vos retours constructifs : ils aident concrètement à améliorer le jeu."
     }
   ],
-  "updatedUtc": "2026-10-27T22:21:05Z"
+  "updatedUtc": "2026-10-28T22:22:40.718Z"
 }
