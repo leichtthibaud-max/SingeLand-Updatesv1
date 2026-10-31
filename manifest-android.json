@@ -1,14 +1,14 @@
 {
   "kind": "android",
-  "version": "3.3.16",
-  "versionCode": 3316,
+  "version": "3.3.17",
+  "versionCode": 3317,
   "packageName": "com.singeland.bananaarena",
   "channel": "stable",
   "publicBuild": true,
-  "fileName": "SingeLand-3.3.16-Android.apk",
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v3.3.16/SingeLand-3.3.16-Android.apk",
-  "sha256": "5b16a77062b380bfc1aa15023e2044aee693ee1e770743e25c4421584703549b",
+  "fileName": "SingeLand-3.3.17-Android.apk",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v3.3.17/SingeLand-3.3.17-Android.apk",
+  "sha256": "f656855479c22c28aabf51e62a74a37df8b0f0cff3fee9a86abc28d5774fa165",
   "size": 1166620037,
   "certificateSha256": "9de96cc5328edecc06921d906c1cb34a595de4618dabd792423044106f1e13fd",
-  "notes": "SingeLand 3.3.16 — Le Grand Dérèglement\n\nVersion publique avec progression de campagne sauvegardée : les chapitres1à4 se débloquent au fil de l’histoire.\nNouvel accueil, menus sombres et dorés, actualités et réglages conservés. Les voix générées par IA sont provisoires, en attendant le doublage par des comédiens.\nPhotos personnelles requises pour le mode survie ; les portraits des adversaires restent locaux. En multijoueur, portrait personnel et accord explicite de partage au salon. Signalement joueur/photo depuis la pause.\nReprise du thème musical de l’accueil sécurisée ; interactions PC alignées sur le Fold pendant les annonces non bloquantes ; demande d’embarquement Saxo et vue passager PC corrigées.\nCorrections de chargement, de calculs de végétation et de véhicules de mission conservées.\nLe jeu et sa campagne continuent de se développer. Merci pour votre bienveillance et vos retours constructifs.\n"
+  "notes": "SingeLand 3.3.17 — Le Grand Dérèglement\n\nChargement de campagne allégé sur Android : la préparation des cinématiques\nconserve désormais le chargement progressif local de la végétation.\nCorrection d'une erreur d'initialisation de la navigation de campagne.\nVisibilité des décors restaurée correctement après les cinématiques.\nProgression, voix et sauvegardes existantes conservées.\n"
 }
