@@ -1,13 +1,13 @@
 {
-  "version": "3.3.16",
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v3.3.16/SingeLand.zip",
-  "sha256": "bf1ff014178bffa4cf282bc21d5c5945b8977edb77b342f99d8907aa924b5816",
-  "size": 1255233271,
+  "version": "3.3.17",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v3.3.17/SingeLand.zip",
+  "sha256": "6d65cd3ee289c05ac183b686aaf7f4e302de87c9b919743532bc5a4630f6da98",
+  "size": 1255233387,
   "gameExe": "SingeLand.exe",
-  "notes": "SingeLand 3.3.16 — Le Grand Dérèglement\n\nVersion publique avec progression de campagne sauvegardée : les chapitres1à4 se débloquent au fil de l’histoire.\nNouvel accueil, menus sombres et dorés, actualités et réglages conservés. Les voix générées par IA sont provisoires, en attendant le doublage par des comédiens.\nPhotos personnelles requises pour le mode survie ; les portraits des adversaires restent locaux. En multijoueur, portrait personnel et accord explicite de partage au salon. Signalement joueur/photo depuis la pause.\nReprise du thème musical de l’accueil sécurisée ; interactions PC alignées sur le Fold pendant les annonces non bloquantes ; demande d’embarquement Saxo et vue passager PC corrigées.\nCorrections de chargement, de calculs de végétation et de véhicules de mission conservées.\nLe jeu et sa campagne continuent de se développer. Merci pour votre bienveillance et vos retours constructifs.\n",
+  "notes": "SingeLand 3.3.17 — Le Grand Dérèglement\n\nChargement de campagne allégé sur Android : la préparation des cinématiques\nconserve désormais le chargement progressif local de la végétation.\nCorrection d'une erreur d'initialisation de la navigation de campagne.\nVisibilité des décors restaurée correctement après les cinématiques.\nProgression, voix et sauvegardes existantes conservées.\n",
   "channel": "stable",
   "publicBuild": true,
   "distribution": "production",
-  "sourceProductionManifestSha256": "3db4cbbf660c74c0545aa45700f0741a00d41a73d3fb2f3526a99bec951a9baf",
+  "sourceProductionManifestSha256": "d28ef9d2e66bb94a29f80a1f6ee7618f5dda5aaa96a807f8c9b7ce4174040e03",
   "qaVerified": false
 }
