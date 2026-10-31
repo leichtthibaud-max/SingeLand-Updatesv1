@@ -2,7 +2,7 @@
   "items": [
     {
       "title": "SingeLand, un jeu indépendant fait par passion",
-      "message": "Explorez l'île, rencontrez ses habitants et découvrez les mystères du réseau Caliopy. Aventure, conduite et action vous attendent dans une campagne en développement."
+      "message": "Explorez l'île, rencontrez ses habitants et découvrez les mystères du réseau Caliopy. Aventure, conduite et action vous attendent dans une campagne en développement.\n\nVersion 3.3.17 disponible en téléchargement direct : chargement de campagne allégé sur Android et correction d’une erreur d’initialisation de la navigation. Les versions pour les boutiques sont préparées et attendent leur envoi."
     },
     {
       "title": "Des voix provisoires, en attendant le doublage",
@@ -14,5 +14,5 @@
       "message": "SingeLand grandit au fil du développement. Merci pour votre indulgence face aux imperfections et pour vos retours constructifs : ils aident concrètement à améliorer le jeu."
     }
   ],
-  "updatedUtc": "2026-10-28T22:22:40.718Z"
+  "updatedUtc": "2026-10-31T13:08:39.392053Z"
 }
