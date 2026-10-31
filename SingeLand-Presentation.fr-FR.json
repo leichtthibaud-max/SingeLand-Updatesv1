@@ -31,7 +31,19 @@
     "otherStores": "PREPARED_NOT_PUBLISHED",
     "launcherNews": "PUBLISHED_SERVER_AND_GITHUB",
     "microsoftStore": "SUBMITTED_FOR_CERTIFICATION",
-    "statusEvidence": "Campagne confirmed Google Play review and Microsoft Store Submission 9 certification on 2026-10-29; neither store is confirmed available yet."
+    "statusEvidence": "Campagne confirmed Google Play review and Microsoft Store Submission 9 certification on 2026-10-29; neither store is confirmed available yet.",
+    "directDownloads": "PUBLISHED",
+    "directDownloadsVersion": "3.3.17",
+    "storeStatesLastConfirmed": "2026-10-29",
+    "googlePlayVersionLastConfirmed": "3.3.16",
+    "microsoftStoreVersionLastConfirmed": "3.3.16",
+    "pendingStoreUpdate": {
+      "version": "3.3.17",
+      "googlePlay": "PREPARED_NOT_SUBMITTED_WORK_BROWSER_UNAVAILABLE",
+      "microsoftStore": "PREPARED_NOT_SUBMITTED_WORK_BROWSER_UNAVAILABLE",
+      "confirmedBy": "Campagne",
+      "asOf": "2026-10-31"
+    }
   },
   "assets": {
     "featureGraphic": "illustrations/feature-graphic-1024x500.png",
