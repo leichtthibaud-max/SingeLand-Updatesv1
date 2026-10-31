@@ -1,13 +1,13 @@
 {
-  "version": "3.3.17",
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v3.3.17/SingeLand.zip",
-  "sha256": "6d65cd3ee289c05ac183b686aaf7f4e302de87c9b919743532bc5a4630f6da98",
-  "size": 1255233387,
+  "version": "3.3.18",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v3.3.18/SingeLand.zip",
+  "sha256": "7e98c0b6cd977ac40f9a04d62748608aa49a39307b0ed162dd88515eaf9c9fc7",
+  "size": 1255240118,
   "gameExe": "SingeLand.exe",
-  "notes": "SingeLand 3.3.17 — Le Grand Dérèglement\n\nChargement de campagne allégé sur Android : la préparation des cinématiques\nconserve désormais le chargement progressif local de la végétation.\nCorrection d'une erreur d'initialisation de la navigation de campagne.\nVisibilité des décors restaurée correctement après les cinématiques.\nProgression, voix et sauvegardes existantes conservées.\n",
+  "notes": "SingeLand 3.3.18 — Le Grand Dérèglement\n\nChargement de la campagne mieux réparti pour réduire les blocages à l’étape de la place et des trottoirs.\nAccueil plus lisible en plein écran, avec confidentialité et choix du nom du singe.\nMessages de chargement plus précis et diagnostics Android améliorés.\nNouvelle galerie d’images du jeu.\n",
   "channel": "stable",
   "publicBuild": true,
   "distribution": "production",
-  "sourceProductionManifestSha256": "d28ef9d2e66bb94a29f80a1f6ee7618f5dda5aaa96a807f8c9b7ce4174040e03",
+  "sourceProductionManifestSha256": "dcf1d9fa13c3439a3207e0311ee19050e05bbbdf9448802a25b0dd1b2a80ba4f",
   "qaVerified": false
 }
