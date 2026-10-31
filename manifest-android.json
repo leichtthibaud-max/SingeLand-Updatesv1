@@ -1,14 +1,14 @@
 {
   "kind": "android",
-  "version": "3.3.17",
-  "versionCode": 3317,
+  "version": "3.3.18",
+  "versionCode": 3318,
   "packageName": "com.singeland.bananaarena",
   "channel": "stable",
   "publicBuild": true,
-  "fileName": "SingeLand-3.3.17-Android.apk",
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v3.3.17/SingeLand-3.3.17-Android.apk",
-  "sha256": "f656855479c22c28aabf51e62a74a37df8b0f0cff3fee9a86abc28d5774fa165",
-  "size": 1166620037,
+  "fileName": "SingeLand-3.3.18-Android.apk",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v3.3.18/SingeLand-3.3.18-Android.apk",
+  "sha256": "0f4c3e02776c8ded43dc17c056f1fca1ea9263123b455ed474f3f1a4ffc7cdab",
+  "size": 1166640517,
   "certificateSha256": "9de96cc5328edecc06921d906c1cb34a595de4618dabd792423044106f1e13fd",
-  "notes": "SingeLand 3.3.17 — Le Grand Dérèglement\n\nChargement de campagne allégé sur Android : la préparation des cinématiques\nconserve désormais le chargement progressif local de la végétation.\nCorrection d'une erreur d'initialisation de la navigation de campagne.\nVisibilité des décors restaurée correctement après les cinématiques.\nProgression, voix et sauvegardes existantes conservées.\n"
+  "notes": "SingeLand 3.3.18 — Le Grand Dérèglement\n\nChargement de la campagne mieux réparti pour réduire les blocages à l’étape de la place et des trottoirs.\nAccueil plus lisible en plein écran, avec confidentialité et choix du nom du singe.\nMessages de chargement plus précis et diagnostics Android améliorés.\nNouvelle galerie d’images du jeu.\n"
 }
