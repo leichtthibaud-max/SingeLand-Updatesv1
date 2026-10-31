@@ -33,17 +33,19 @@
     "microsoftStore": "SUBMITTED_FOR_CERTIFICATION",
     "statusEvidence": "Campagne confirmed Google Play review and Microsoft Store Submission 9 certification on 2026-10-29; neither store is confirmed available yet.",
     "directDownloads": "PUBLISHED",
-    "directDownloadsVersion": "3.3.17",
+    "directDownloadsVersion": "3.3.18",
     "storeStatesLastConfirmed": "2026-10-29",
-    "googlePlayVersionLastConfirmed": "3.3.16",
+    "googlePlayVersionLastConfirmed": "3.3.18",
     "microsoftStoreVersionLastConfirmed": "3.3.16",
     "pendingStoreUpdate": {
-      "version": "3.3.17",
-      "googlePlay": "PREPARED_NOT_SUBMITTED_WORK_BROWSER_UNAVAILABLE",
-      "microsoftStore": "PREPARED_NOT_SUBMITTED_WORK_BROWSER_UNAVAILABLE",
+      "version": "3.3.18",
+      "googlePlay": "SUBMITTED_FOR_REVIEW",
+      "microsoftStore": "PREPARED_NOT_SUBMITTED_BY_THIS_DELIVERY",
       "confirmedBy": "Campagne",
       "asOf": "2026-10-31"
-    }
+    },
+    "googlePlayStatusAsOf": "2026-10-31",
+    "googlePlayStatusEvidence": "Campagne clicked final Send changes for review; Google displays Modifications en cours d’examen. Evidence E:/SingeLand-Accueil-Galerie-20261031/GooglePlay318-en-examen.jpg and .txt."
   },
   "assets": {
     "featureGraphic": "illustrations/feature-graphic-1024x500.png",
