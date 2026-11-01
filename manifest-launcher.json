@@ -1,11 +1,11 @@
 {
   "kind": "launcher",
-  "version": "2.2.6",
   "channel": "stable",
   "publicBuild": true,
-  "fileName": "SingeLand-Launcher-2.2.6-Windows.zip",
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v3.3.16/SingeLand-Launcher-2.2.6-Windows.zip",
-  "sha256": "bd8ef80657adf5fd872e84569c2c62225e880e0080e3c5b5bc32f0b7dc0159ff",
-  "size": 14801841,
-  "notes": "Launcher public : une seule version de production. Mise à jour volontaire via Mettre à jour le launcher.exe ; sauvegarde du programme précédent et jeux conservés."
+  "version": "2.2.7",
+  "fileName": "SingeLand-Launcher-2.2.7-Windows.zip",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/launcher-v2.2.7/SingeLand-Launcher-2.2.7-Windows.zip",
+  "size": 14841615,
+  "sha256": "b9af0bb482a785511712706e1cc66829d53281303480cb08621df9dba3090e40",
+  "notes": "SingeLand Launcher 2.2.7\n\nReprise des téléchargements interrompus lorsque le serveur la permet.\nMises à jour PC différentielles lorsqu'un paquet compatible est fourni ; archive complète de secours si nécessaire.\nFichiers vérifiés avant remplacement, ancienne installation conservée.\n\nLa signature cryptographique jointe se vérifie avec le certificat officiel embarqué. Il ne s'agit pas d'une signature Authenticode Windows ; aucune suppression d'avertissement Windows n'est promise.\nLe jeu reste en3.3.19. Aucun mécanisme de remplacement APK ne contourne GooglePlay.\n"
 }
