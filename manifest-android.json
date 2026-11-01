@@ -1,14 +1,14 @@
 {
   "kind": "android",
-  "version": "3.3.18",
-  "versionCode": 3318,
+  "version": "3.3.19",
+  "versionCode": 3319,
   "packageName": "com.singeland.bananaarena",
   "channel": "stable",
   "publicBuild": true,
-  "fileName": "SingeLand-3.3.18-Android.apk",
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v3.3.18/SingeLand-3.3.18-Android.apk",
-  "sha256": "0f4c3e02776c8ded43dc17c056f1fca1ea9263123b455ed474f3f1a4ffc7cdab",
-  "size": 1166640517,
+  "fileName": "SingeLand-3.3.19-Android.apk",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v3.3.19/SingeLand-3.3.19-Android.apk",
+  "sha256": "1185dba028ab1234e914f471308cd6837b831d88fdf489e441a565d4ead10cf4",
+  "size": 1168492102,
   "certificateSha256": "9de96cc5328edecc06921d906c1cb34a595de4618dabd792423044106f1e13fd",
-  "notes": "SingeLand 3.3.18 — Le Grand Dérèglement\n\nChargement de la campagne mieux réparti pour réduire les blocages à l’étape de la place et des trottoirs.\nAccueil plus lisible en plein écran, avec confidentialité et choix du nom du singe.\nMessages de chargement plus précis et diagnostics Android améliorés.\nNouvelle galerie d’images du jeu.\n"
+  "notes": "SingeLand 3.3.19 — Le Grand Dérèglement\n\nNouvelle animation d’ouverture Leicht Studio Corporation, accompagnée de sa musique.\nMenu d’accueil plus lisible et adapté aux téléphones, tablettes et écrans pliables, avec des boutons agrandis et un défilement lorsque nécessaire.\nLe jeu s’ouvre sur le menu : lancez ou reprenez la campagne quand vous le souhaitez. Votre progression est conservée.\n"
 }
