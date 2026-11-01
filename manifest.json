@@ -1,13 +1,13 @@
 {
-  "version": "3.3.18",
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v3.3.18/SingeLand.zip",
-  "sha256": "7e98c0b6cd977ac40f9a04d62748608aa49a39307b0ed162dd88515eaf9c9fc7",
-  "size": 1255240118,
+  "version": "3.3.19",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v3.3.19/SingeLand.zip",
+  "sha256": "3bd8bdf7559eb0ae5c572a7d2871317180bc5c487f80ff99a08a58303d6bb5bc",
+  "size": 1257627491,
   "gameExe": "SingeLand.exe",
-  "notes": "SingeLand 3.3.18 — Le Grand Dérèglement\n\nChargement de la campagne mieux réparti pour réduire les blocages à l’étape de la place et des trottoirs.\nAccueil plus lisible en plein écran, avec confidentialité et choix du nom du singe.\nMessages de chargement plus précis et diagnostics Android améliorés.\nNouvelle galerie d’images du jeu.\n",
+  "notes": "SingeLand 3.3.19 — Le Grand Dérèglement\n\nNouvelle animation d’ouverture Leicht Studio Corporation, accompagnée de sa musique.\nMenu d’accueil plus lisible et adapté aux téléphones, tablettes et écrans pliables, avec des boutons agrandis et un défilement lorsque nécessaire.\nLe jeu s’ouvre sur le menu : lancez ou reprenez la campagne quand vous le souhaitez. Votre progression est conservée.\n",
   "channel": "stable",
   "publicBuild": true,
   "distribution": "production",
-  "sourceProductionManifestSha256": "dcf1d9fa13c3439a3207e0311ee19050e05bbbdf9448802a25b0dd1b2a80ba4f",
+  "sourceProductionManifestSha256": "ff63e6dbe595e6db6fe7dd3ecc485a1907117957eb90c6eab8ebd57f6043054d",
   "qaVerified": false
 }
