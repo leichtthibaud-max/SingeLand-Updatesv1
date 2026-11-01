@@ -9,5 +9,11 @@
   "publicBuild": true,
   "distribution": "production",
   "sourceProductionManifestSha256": "ff63e6dbe595e6db6fe7dd3ecc485a1907117957eb90c6eab8ebd57f6043054d",
-  "qaVerified": false
+  "qaVerified": false,
+  "delta": {
+    "catalogUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/launcher-v2.2.7/catalog-3.3.18-to-3.3.19-v2.json",
+    "signatureUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/launcher-v2.2.7/catalog-3.3.18-to-3.3.19-v2.json.sig",
+    "catalogSha256": "59b37917572f16b1d56868c8b2d6e000ee5f63982fe6f495dc036b075efc8d75",
+    "catalogBytes": 61664
+  }
 }
