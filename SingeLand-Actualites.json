@@ -2,7 +2,7 @@
   "items": [
     {
       "title": "SingeLand 3.3.20",
-      "message": "SingeLand 3.3.20 : corrections des cinématiques et du relais des quais, retour du menu illustré adapté aux téléphones et aux Fold, outils développeur désactivés. Le jeu peut proposer les prochaines mises à jour au lancement. Disponible via le launcher Windows et en téléchargement Android. La mise à disposition sur Google Play reste en attente de soumission."
+      "message": "SingeLand 3.3.20 : corrections des cinématiques et du relais des quais, retour du menu illustré adapté aux téléphones et aux Fold, outils développeur désactivés. Le jeu peut proposer les prochaines mises à jour au lancement. Disponible via le launcher Windows et en téléchargement Android. La version Android a été envoyée pour examen sur Google Play ; disponibilité après validation Google."
     },
     {
       "title": "Des voix provisoires, en attendant le doublage",
@@ -14,5 +14,5 @@
       "message": "SingeLand grandit au fil du développement. Merci pour votre indulgence face aux imperfections et pour vos retours constructifs : ils aident concrètement à améliorer le jeu."
     }
   ],
-  "updatedUtc": "2026-11-04T08:42:20.022060Z"
+  "updatedUtc": "2026-11-04T17:03:44.686Z"
 }
