@@ -1,19 +1,19 @@
 {
-  "version": "3.3.19",
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v3.3.19/SingeLand.zip",
-  "sha256": "3bd8bdf7559eb0ae5c572a7d2871317180bc5c487f80ff99a08a58303d6bb5bc",
-  "size": 1257627491,
+  "version": "3.3.20",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v3.3.20/SingeLand.zip",
+  "sha256": "c2ac5e955e9fedad3bf55e1caa7579e52189e0b72d355b892d859855bf0bb682",
+  "size": 1257637460,
   "gameExe": "SingeLand.exe",
-  "notes": "SingeLand 3.3.19 — Le Grand Dérèglement\n\nNouvelle animation d’ouverture Leicht Studio Corporation, accompagnée de sa musique.\nMenu d’accueil plus lisible et adapté aux téléphones, tablettes et écrans pliables, avec des boutons agrandis et un défilement lorsque nécessaire.\nLe jeu s’ouvre sur le menu : lancez ou reprenez la campagne quand vous le souhaitez. Votre progression est conservée.\n",
+  "notes": "SingeLand 3.3.20 — Le Grand Dérèglement\n\nAméliorations de la campagne et de l'accueil.\n\n- Corrections des déplacements et de la sortie de véhicule des compagnons pendant les cinématiques.\n- Interaction du relais près des quais plus accessible.\n- Menu illustré adapté aux formats de téléphone et aux écrans pliables, avec des commandes lisibles.\n- Proposition de mise à jour au lancement, via Google Play sur Android ou le launcher sur Windows.\n- Retrait des raccourcis de développement des versions publiques.\n\nLa progression normale des chapitres et les sauvegardes sont conservées.\n",
   "channel": "stable",
   "publicBuild": true,
   "distribution": "production",
-  "sourceProductionManifestSha256": "ff63e6dbe595e6db6fe7dd3ecc485a1907117957eb90c6eab8ebd57f6043054d",
+  "sourceProductionManifestSha256": "329326a327bfc7020f83e009b775f1afa851eb3a7acc90554c5d7ac8153a2ac8",
   "qaVerified": false,
   "delta": {
-    "catalogUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/launcher-v2.2.7/catalog-3.3.18-to-3.3.19-v2.json",
-    "signatureUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/launcher-v2.2.7/catalog-3.3.18-to-3.3.19-v2.json.sig",
-    "catalogSha256": "59b37917572f16b1d56868c8b2d6e000ee5f63982fe6f495dc036b075efc8d75",
-    "catalogBytes": 61664
+    "catalogUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/launcher-v2.2.8/catalog-3.3.19-to-3.3.20.json",
+    "signatureUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/launcher-v2.2.8/catalog-3.3.19-to-3.3.20.json.sig",
+    "catalogSha256": "51b6e28d51c1d7e130f9bb0059b46ea88cddbeb62dea69ec935c86cdac446dae",
+    "catalogBytes": 61319
   }
 }
