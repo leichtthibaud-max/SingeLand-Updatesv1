@@ -31,22 +31,23 @@
     "otherStores": "PREPARED_NOT_PUBLISHED",
     "launcherNews": "PUBLISHED_SERVER_AND_GITHUB",
     "microsoftStore": "SUBMITTED_FOR_CERTIFICATION",
-    "statusEvidence": "Campagne confirmed Google Play review and Microsoft Store Submission 9 certification on 2026-10-29; neither store is confirmed available yet.",
+    "statusEvidence": "Google Play3320 soumis le4novembre2026, vérifications automatiques puis examen Google. État Microsoft Store conservé de la précédente livraison, non recontrôlé lors de cette soumission.",
     "directDownloads": "PUBLISHED",
     "directDownloadsVersion": "3.3.20",
     "storeStatesLastConfirmed": "2026-10-29",
-    "googlePlayVersionLastConfirmed": "3.3.19",
+    "googlePlayVersionLastConfirmed": "3.3.20",
     "microsoftStoreVersionLastConfirmed": "3.3.16",
     "pendingStoreUpdate": {
       "version": "3.3.20",
-      "googlePlay": "BUNDLE_READY_ACCESS_BLOCKED",
+      "googlePlay": "SUBMITTED_FOR_REVIEW",
       "microsoftStore": "NOT_SUBMITTED_BY_THIS_DELIVERY",
       "confirmedBy": "Campagne",
       "asOf": "2026-11-04",
-      "note": "Signed Android3320 bundle ready; Google Play not submitted because local browser access is disabled. Microsoft Store320 prepared, not submitted by this delivery."
+      "note": "Android3320 submitted for production review; automatic quick checks in progress, public availability not yet confirmed. Microsoft Store320 prepared, not submitted by this delivery."
     },
-    "googlePlayStatusAsOf": "2026-11-01",
-    "googlePlayStatusEvidence": "Campagne confirme Console Google Play : modifications en cours d’examen, Production3.3.19 Ouverture et menu adaptatif, déploiement complet ; version3319 acceptée. Disponibilité non confirmée avant validation Google."
+    "googlePlayStatusAsOf": "2026-11-04",
+    "googlePlayStatusEvidence": "Console Google Play observée le 4 novembre 2026 : modifications en cours d’examen, Production 3.3.20 - Campagne et menu illustré, code3320, déploiement complet demandé. Vérifications rapides en cours ; disponibilité publique non encore confirmée.",
+    "microsoftStoreStatusEvidence": "Campagne confirmed Google Play review and Microsoft Store Submission 9 certification on 2026-10-29; neither store is confirmed available yet."
   },
   "assets": {
     "featureGraphic": "illustrations/feature-graphic-1024x500.png",
