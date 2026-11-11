@@ -1,0 +1,26 @@
+{
+  "kind": "mac",
+  "channel": "stable",
+  "publicBuild": true,
+  "distribution": "production",
+  "version": "3.3.20",
+  "fileName": "SingeLand-3.3.20-Mac.zip",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v3.3.20/SingeLand-3.3.20-Mac.zip",
+  "sha256": "c64b75d2a204e821fd3fe661fcf029b0f6ed2ad76ab6725efb0cbb9d42d8bab6",
+  "size": 1263518747,
+  "appName": "SingeLand.app",
+  "minimumMacOS": "12.0",
+  "architectures": [
+    "x86_64",
+    "arm64"
+  ],
+  "codeSignature": "adhoc (non notarisé)",
+  "notes": "SingeLand 3.3.20 — Le Grand Dérèglement, maintenant sur Mac (Intel et Apple Silicon).\n\nMême contenu que la version Windows 3.3.20. La progression des chapitres et les sauvegardes sont conservées lors des mises à jour.\n",
+  "launcher": {
+    "version": "1.0.0",
+    "fileName": "SingeLand-Launcher-1.0.0-Mac.zip",
+    "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v3.3.20/SingeLand-Launcher-1.0.0-Mac.zip",
+    "sha256": "770354dfa2ee1ade1ac3a31ef2aaf0d26f8ff815d48030b3c1497078859d0752",
+    "size": 1554319
+  }
+}
