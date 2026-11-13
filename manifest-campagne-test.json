@@ -1,0 +1,10 @@
+{
+  "channel": "test",
+  "publicBuild": false,
+  "version": "3.3.20.1113",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/test-campagne-20261113/SingeLand-test-PC.zip",
+  "sha256": "f4ce21ea8bbe68800f63f42887f02c7144689b921464a24a80ecfef1c7660c65",
+  "size": 1286829860,
+  "gameExe": "SingeLand.exe",
+  "notes": "Candidat TEST C5 western / C6 rivière et port. F8 checkpoints, F9 signalement. Voix candidates, 10 anciennes prises de secours. C6 livré jusqu’à M4. Aucune mise à jour production."
+}
