@@ -16,5 +16,8 @@
   "playVersion": "3.3.20",
   "playVersionCode": 3320,
   "playUrl": "https://play.google.com/store/apps/details?id=com.singeland.bananaarena",
-  "playStatus": "PENDING_SUBMISSION"
+  "playStatus": "SUBMITTED_FOR_REVIEW",
+  "playSubmissionVersion": "3.3.21",
+  "playSubmissionVersionCode": 3321,
+  "playSubmissionUtc": "2026-11-16T22:51:42.008583+00:00"
 }

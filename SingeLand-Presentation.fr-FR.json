@@ -30,13 +30,15 @@
   "publication": {
     "directDownloads": "PUBLISHED",
     "directDownloadsVersion": "3.3.21",
-    "googlePlay": "PENDING_SUBMISSION",
+    "googlePlay": "SUBMITTED_FOR_REVIEW",
     "googlePlayVersionLastConfirmed": "3.3.20",
-    "googlePlayStatusAsOf": "2026-11-16",
-    "googlePlayStatusEvidence": "Console Production : 3.3.20 disponible depuis le 4 novembre ; 3.3.21 en préparation.",
+    "googlePlayStatusAsOf": "2026-11-16T22:51:42.008583+00:00",
+    "googlePlayStatusEvidence": "Console Google Play : Modifications en cours d’examen ; Production 3.3.21 — Chapitres 5 et 6 ; déploiement complet100% ; vérifications rapides en cours. Publication gérée désactivée. Version publique précédente3.3.20.",
     "launcherNews": "PUBLISHED_GITHUB",
     "mac": "BLOCKED_MODULE_AND_SIGNING_NOT_UPDATED",
-    "microsoftStore": "NOT_UPDATED_BY_THIS_DELIVERY"
+    "microsoftStore": "NOT_UPDATED_BY_THIS_DELIVERY",
+    "googlePlaySubmittedVersion": "3.3.21",
+    "googlePlaySubmittedVersionCode": 3321
   },
   "assets": {
     "featureGraphic": "illustrations/feature-graphic-1024x500.png",
