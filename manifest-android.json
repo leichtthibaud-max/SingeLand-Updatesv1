@@ -1,14 +1,20 @@
 {
   "kind": "android",
-  "version": "3.3.20",
-  "versionCode": 3320,
+  "version": "3.3.21",
+  "versionCode": 3321,
   "packageName": "com.singeland.bananaarena",
   "channel": "stable",
   "publicBuild": true,
-  "fileName": "SingeLand-3.3.20-Android.apk",
-  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v3.3.20/SingeLand-3.3.20-Android.apk",
-  "sha256": "b9b3110cdc9791e7dc6b83eae7e2d0278ae825f1fb7f7664c92cb201c9a52752",
-  "size": 1168635752,
+  "distribution": "production",
+  "fileName": "SingeLand-3.3.21-Android.apk",
+  "downloadUrl": "https://github.com/leichtthibaud-max/SingeLand-Updatesv1/releases/download/v3.3.21/SingeLand-3.3.21-Android.apk",
+  "sha256": "9284ab9cac762d9c0cc67aefed3e3cdd68d732986d7d8827dd18ee663493a994",
+  "size": 1449114207,
   "certificateSha256": "9de96cc5328edecc06921d906c1cb34a595de4618dabd792423044106f1e13fd",
-  "notes": "SingeLand 3.3.20 — Le Grand Dérèglement\n\nAméliorations de la campagne et de l'accueil.\n\n- Corrections des déplacements et de la sortie de véhicule des compagnons pendant les cinématiques.\n- Interaction du relais près des quais plus accessible.\n- Menu illustré adapté aux formats de téléphone et aux écrans pliables, avec des commandes lisibles.\n- Proposition de mise à jour au lancement, via Google Play sur Android ou le launcher sur Windows.\n- Retrait des raccourcis de développement des versions publiques.\n\nLa progression normale des chapitres et les sauvegardes sont conservées.\n"
+  "notes": "# Chapitres 5 et 6 disponibles\n\nSingeLand 3.3.21 poursuit Le Grand Dérèglement.\n\n- Chapitre 5 : enquête dans le village western, saloon et affrontement contre la milice.\n- Chapitre 6 : trajet en bateau, port des Brisants, assaut du phare, combat contre le Veilleur et salle de transmission.\n- Nouveaux dialogues, voix et récits de transition.\n- Port, littoral, paysages, rivières et sols des biomes retravaillés.\n- Reprise des deux derniers checkpoints depuis le menu pause.\n\nLes chapitres se débloquent au fil de l'histoire. Les voix IA restent provisoires, en attendant le doublage.\nLes sauvegardes existantes sont conservées. Merci pour votre bienveillance et vos retours.\n\nWindows et Android sont disponibles en téléchargement direct. La disponibilité Google Play dépend de la validation de la release par Google.\n",
+  "playAvailable": false,
+  "playVersion": "3.3.20",
+  "playVersionCode": 3320,
+  "playUrl": "https://play.google.com/store/apps/details?id=com.singeland.bananaarena",
+  "playStatus": "PENDING_SUBMISSION"
 }

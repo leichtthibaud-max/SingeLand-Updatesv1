@@ -8,7 +8,7 @@ SingeLand est un jeu indépendant d'aventure et d'action, fait par passion. Expl
 
 Incarnez Singe Chauve et faites équipe avec Minutieux, Cartographe et Rapide. Explorez la ville, les quais, les forêts et la savane, voyagez en véhicule, manipulez les installations Caliopy et participez aux combats de la campagne.
 
-Les chapitres 1 à 4 se débloquent au fil de votre avancée dans l’histoire. Votre progression est sauvegardée. La campagne continue de s’enrichir au fil du développement.
+Les chapitres 1 à 6 se débloquent au fil de votre avancée dans l’histoire. Votre progression est sauvegardée. La campagne continue de s’enrichir au fil du développement.
 
 ## Voix et développement
 
@@ -24,3 +24,7 @@ Utilisez votre launcher habituel pour recevoir la version de production, ou cons
 - [Actualités communes](SingeLand-Actualites.json)
 - [Confidentialité](PRIVACY.md)
 
+
+## Nouveautés 3.3.21
+
+Les chapitres 5 et 6 sont disponibles : village western, port des Brisants et phare. Les chapitres se débloquent au fil de l’histoire.
